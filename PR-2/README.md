@@ -92,7 +92,7 @@ The goal is to demonstrate **end-to-end Excel analytics** — from raw transacti
 │
 ├── 📊 Smart_Home_Tech_Sales_Project.xlsx   ← Full workbook: 8 sheets, formulas + dashboard
 │
-├── 🖼️ screenshots/                          ← Sheet-by-sheet reference images
+├── 🖼️ Screenshots/                          ← Sheet-by-sheet reference images
 │   ├── Data.png
 │   ├── DescriptiveStats.png
 │   ├── Regression_.png
@@ -197,35 +197,35 @@ The workbook contains eight sheets, with the Dashboard reading live from all of 
 
 **DATA** — the master transaction log all other sheets read from:
 
-![DATA sheet](screenshots/Data.png)
+![DATA sheet](Screenshots/Data.png)
 
 **DescriptiveStats** — ToolPak summary statistics for Sales, Discount, and Profit:
 
-![Descriptive Statistics](screenshots/DescriptiveStats.png)
+![Descriptive Statistics](Screenshots/DescriptiveStats.png)
 
 **Regression** — Sales modeled against Quantity, R² = 0.834:
 
-![Regression Output](screenshots/Regression_.png)
+![Regression Output](Screenshots/Regression_.png)
 
 **PivotTable** — Total Sales by Region and Product Category:
 
-![PivotTable](screenshots/pivotTable.png)
+![PivotTable](Screenshots/pivotTable.png)
 
 **MonthlySales** — month-over-month Sales & Profit with growth trend arrows:
 
-![Monthly Sales Trend](screenshots/Monthlysales.png)
+![Monthly Sales Trend](Screenshots/Monthlysales.png)
 
 **WhatIf** — discount-rate sensitivity model:
 
-![What-If Discount Model](screenshots/whatif.png)
+![What-If Discount Model](Screenshots/whatif.png)
 
 **CustomerSummary** — ranked customers and the Top-10 list:
 
-![Customer Summary](screenshots/Customersummry.png)
+![Customer Summary](Screenshots/Customersummry.png)
 
 **Dashboard** — the full executive view with slicers, KPIs, and charts:
 
-![Executive Dashboard](screenshots/Dashboard.png)
+![Executive Dashboard](Screenshots/Dashboard.png)
 
 ---
 

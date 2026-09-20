@@ -93,7 +93,6 @@ The goal is to demonstrate **end-to-end Excel analytics** — from raw transacti
 ├── 🖼️ Screenshots/                      ← Sheet-by-sheet reference images
 │   ├── Dashboard.png
 │   ├── PivotTable.png
-│   ├── PivotTable_Formatted.png
 │   ├── RawData.png
 │   └── CustomerData.png
 │
@@ -174,13 +173,9 @@ The workbook contains four sheets, with the Dashboard reading live from the Pivo
 
 ![Executive Dashboard](Screenshots/Dashboard.png)
 
-**Pivot Table** — the four PivotTables (States, Order Status, Age Group, Months) before formatting:
+**Pivot Table** — the four PivotTables (States, Order Status, Age Group, Months) with data-bar conditional formatting:
 
 ![PivotTable](Screenshots/PivotTable.png)
-
-**Pivot Table (Formatted)** — the same pivots with data-bar conditional formatting applied:
-
-![PivotTable Formatted](Screenshots/PivotTable_Formatted.png)
 
 **Raw Data** — the 250,000-row order log with the calculated columns on the right:
 

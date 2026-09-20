@@ -91,7 +91,7 @@ The goal is to demonstrate **end-to-end Excel analytics** — from raw transacti
 ├── 📊 TejasVarma_ExcelDashboard.xlsx   ← Full workbook: 4 sheets, pivots + slicers + dashboard
 │
 ├── 🖼️ Screenshots/                      ← Sheet-by-sheet reference images
-│   ├── Dashboard.png
+│   ├── DashBoard.png
 │   ├── PivotTable.png
 │   ├── RawData.png
 │   └── CustomerData.png
@@ -171,7 +171,7 @@ The workbook contains four sheets, with the Dashboard reading live from the Pivo
 
 **Dashboard** — the full executive view with slicers, KPIs, charts, and insights:
 
-![Executive Dashboard](Screenshots/Dashboard.png)
+![Executive Dashboard](Screenshots/DashBoard.png)
 
 **Pivot Table** — the four PivotTables (States, Order Status, Age Group, Months) with data-bar conditional formatting:
 
